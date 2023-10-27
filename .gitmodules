@@ -34,6 +34,6 @@
 [submodule "src/FMS1"]
 	path = src/FMS1
 	url = https://github.com/NOAA-GFDL/FMS
-[submodule "src/FMS2"]
-	path = src/FMS2
-	url = https://github.com/NOAA-GFDL/FMS
+#[submodule "src/FMS2"]
+#	path = src/FMS2
+#	url = https://github.com/NOAA-GFDL/FMS
